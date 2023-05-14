@@ -1,0 +1,29 @@
+@font-face {
+    font-family: font1;
+    src: url(../assets/fonts/Cute\ Love\ Story\ \(1\).PNG);
+}
+
+@font-face {
+    font-family: font2;
+    src: url(../assets/fonts/CuteLoveStory.ttf);
+}
+
+@font-face {
+    font-family: font3;
+    src: url(../assets/fonts/Hey\ Elsie.otf);
+}
+
+@font-face {
+    font-family: font4;
+    src: url(../assets/fonts/Hey\ Elsie\ Cute.ttf);
+}
+
+@font-face {
+    font-family: font5;
+    src: url(../assets/fonts/Hey\ Elsie\ Cute\ italic.ttf);
+}
+
+@font-face {
+    font-family: font6;
+    src: url(../assets/fonts/Hey\ Elsie\ italic.ttf);
+}
